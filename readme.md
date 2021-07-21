@@ -1,3 +1,3 @@
 # Readme
 
-Salesforce sample app.
+Salesforce sample project.
