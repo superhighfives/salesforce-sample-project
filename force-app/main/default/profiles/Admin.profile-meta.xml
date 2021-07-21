@@ -3,7 +3,7 @@
     <applicationVisibilities>
         <application>Offsite</application>
         <default>false</default>
-        <visible>true</visible>
+        <visible>false</visible>
     </applicationVisibilities>
     <custom>false</custom>
     <tabVisibilities>
