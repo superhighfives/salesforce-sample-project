@@ -1,8 +1,9 @@
 <aura:component
   implements="lightning:appHomeTemplate"
-  description="App Template"
+  description="Custom App template"
 >
   <ltng:require styles="{!$Resource.NoHeader}" />
+  <ltng:require styles="{!$Resource.CustomBackground}" />
   <aura:attribute name="content" type="Aura.Component[]" />
   <div>{!v.content}</div>
 </aura:component>
