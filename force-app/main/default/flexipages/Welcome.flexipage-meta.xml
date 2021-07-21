@@ -11,7 +11,7 @@
     </flexiPageRegions>
     <masterLabel>Welcome</masterLabel>
     <template>
-        <name>flexipage:defaultAppHomeTemplate</name>
+        <name>appTemplate</name>
     </template>
     <type>AppPage</type>
 </FlexiPage>
