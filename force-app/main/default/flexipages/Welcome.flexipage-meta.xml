@@ -6,7 +6,7 @@
                 <componentName>hello</componentName>
             </componentInstance>
         </itemInstances>
-        <name>main</name>
+        <name>content</name>
         <type>Region</type>
     </flexiPageRegions>
     <masterLabel>Welcome</masterLabel>
